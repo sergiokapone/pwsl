@@ -1,4 +1,4 @@
-# Docker - Команди
+# Docker - Основні команди
 
 [Сайт](https://docs.docker.com/engine/reference/commandline/docker/)
 
